@@ -1,0 +1,13 @@
+.header {
+    background-color: #5a5b5e;
+    min-height: 100px;
+    padding-top: 25px;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.header__title {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}

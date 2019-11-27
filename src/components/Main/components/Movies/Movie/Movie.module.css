@@ -1,0 +1,22 @@
+.movies__movie-item {
+    align-self: center;
+    justify-self: center;
+}
+
+.movies__movie-item_title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.movies__movie-item_poster {
+    margin: 0 auto;
+    display: block;
+}
+
+.movies__movie-item_year {
+    font-size: 16px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 10px;
+}
